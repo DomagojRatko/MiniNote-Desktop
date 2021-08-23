@@ -1,7 +1,7 @@
 # Java
 Java application
 
- * Project made for my needs. If I'm going to feel like it will finish whole project and add more features.
+ * Project made for my needs. If I'm going to feel like it I will finish whole project and add more features.
  * Application: Mini Note
  * Mini text editor. notes look a like.
  * Made for learning purposes. That include some of cool features
