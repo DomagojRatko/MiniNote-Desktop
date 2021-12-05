@@ -11,7 +11,7 @@ Java application MiniNoteApp Simple GUI NotePad
  * Special thanks Alphabet discord community for help.
  * 
  * @author  Domagoj Ratko
- * @discord Domo Ratko™#0750
+ * @discord Domo Ratko#0750
  * @email   domagoj.ratko@gmail.com
  * @version 1.0
  * @since   08.22.2021
