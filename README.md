@@ -13,4 +13,4 @@ Java application MiniNoteApp simple GUI NotePad
  * @discord Domo Ratko#0750
  * @email   domagoj.ratko@gmail.com
  * @version 1.0
- * @since   08.22.2021
+ * @since   22.08.2021
