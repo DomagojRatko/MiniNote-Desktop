@@ -14,3 +14,6 @@ Java application MiniNoteApp simple GUI NotePad
  * @email   domagoj.ratko@gmail.com
  * @version 1.0
  * @since   22.08.2021
+
+![112](https://user-images.githubusercontent.com/62218857/150673896-2029465b-0bb8-4c4d-84d6-c03b71c9c8ce.PNG)
+
