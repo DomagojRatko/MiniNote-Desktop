@@ -1,4 +1,4 @@
-# Java
+# MiniNoteApp
 Java application MiniNoteApp simple GUI NotePad
 
  * Project made for my needs. In future possibility to add more features.
